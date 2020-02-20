@@ -39,6 +39,7 @@ class ViewController: UIViewController {
         else {
             //Disables the button. Will run after if loop is completed.
             (sender as! UIButton).isEnabled=false
+            
         }
         
     }
